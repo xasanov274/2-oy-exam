@@ -1,0 +1,39 @@
+.ota {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+h4 {
+  font-weight: 500;
+  font-size: 56px;
+  line-height: 70px;
+  letter-spacing: 0%;
+  width: 520px;
+  margin-bottom: 20px;
+}
+.name {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  margin-bottom: 20px;
+}
+.desc {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  margin-bottom: 50px;
+}
+button {
+  padding: 16px 32px;
+  font-weight: 500;
+  font-size: 18px;  
+  line-height: 24px;
+  letter-spacing: 0%;
+  background-color: #402F2C;
+  color: #fff;
+}
