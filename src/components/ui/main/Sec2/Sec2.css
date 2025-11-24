@@ -1,3 +1,8 @@
+.ctn{
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
 #h2 {
   display: flex;
   align-items: center;
@@ -94,7 +99,7 @@
   padding-bottom: 32px;
 }
 
-.btn {
+.btn22 {
   display: flex;
   align-items: center;
   justify-content: center;
