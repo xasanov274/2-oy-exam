@@ -4,7 +4,7 @@ import makeup from "/public/makeup.png";
 import "./Sec2.css";
 function Sec2() {
   return (
-    <div>
+    <div className="ctn">
       <h2 id="h2">Our Porular Product</h2>
       <div className="our">
         <p>
@@ -25,7 +25,7 @@ function Sec2() {
             standard dummy
           </p>
           <div className="price">
-            <div className="btn">
+            <div className="btn22">
               <button onClick={() => alert("Siz muvafaqiyatli sotib oldingiz ☺️")} className="buy">Buy Now</button>
               <button onClick={() => alert("Savatga qoshildi ✅")} className="add">Add To Cart</button>
             </div>
@@ -42,7 +42,7 @@ function Sec2() {
             standard dummy
           </p>
           <div className="price">
-            <div className="btn">
+            <div className="btn22">
               <button onClick={() => alert("siz muvafaqiyatli sotib oldingiz ☺️")} className="buy">Buy Now</button>
               <button onClick={() => alert("Savatga qoshildi ✅")} className="add">Add To Cart</button>
             </div>
